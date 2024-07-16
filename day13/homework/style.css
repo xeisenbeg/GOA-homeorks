@@ -5,9 +5,9 @@ header{
     
         position: sticky;
         top: 0;
-        z-index: 1000; /* Adjust as needed */
+        z-index: 1000; 
         background-color: #236d3f;
-        padding: 10px 0; /* Adjust padding as needed */
+        padding: 10px 0;
     background-color: transparent;
 }
 nav{
