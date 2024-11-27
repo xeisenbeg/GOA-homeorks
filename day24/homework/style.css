@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+    display: block;
+}
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.paintings-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 70vw;
+    margin: 100px auto;
+
+   
+  
+}
+
+img{
+    width: 20vw;
+    height:50vh;
+}
+.border1{
+    border: 2px solid rgb(136, 216, 136);
+    width: 20vw;
+    height:50vh;
+}
+.border2{
+    border: 2px solid rgb(253, 122, 183);
+    width: 20vw;
+    height:50vh;
+}
+.border3{
+    border: 2px solid rgb(203, 245, 137);width: 20vw;
+    height:50vh;
+}
+.border4{
+    border: 2px solid rgb(238, 146, 41);
+    width: 20vw;
+    height:50vh;
+}
+.border5{
+    border: 2px solid rgb(31, 76, 226);
+    width: 20vw;
+    height:50vh;
+}
+.border6{
+    border: 2px solid rgb(1, 49, 1);
+    width: 20vw;
+    height:50vh;
+}
+.border7{
+    border: 2px solid rgb(207, 159, 55);
+    width: 20vw;
+    height:50vh;
+}
+.border8{
+    border: 2px solid rgb(151, 49, 54);
+    width: 20vw;
+    height:50vh;
+}
+.border9{
+    border: 2px solid rgb(142, 108, 187);
+    width: 20vw;
+    height:50vh;
+}
+.border10{
+    border: 2px solid rgb(218, 155, 114);
+    width: 20vw;
+    height:50vh;
+}
+.border11{
+    border: 2px solid rgb(128, 229, 128);
+    width: 20vw;
+    height:50vh;
+}
+.border12{
+    border: 2px solid rgb(66, 118, 167);
+    width: 20vw;
+    height:50vh;
+    
+}
